@@ -1,30 +1,35 @@
 <div align="center">
 
-<!-- Right side illustration (One Piece – Luffy calm vibe) -->
-<img src="https://media.giphy.com/media/8Rmz4i5oWjB0Q/giphy.gif" width="25%" align="right" />
+
 
 <!-- Typing title -->
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4000&pause=300&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Hello+Hello+👋;I'm+Mugilan+V;Full+Stack+Developer+%7C+MERN+Stack+%7C+Problem+Solver" 
-  width="70%" 
-/>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=500&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=180&lines=Hello+Hello;I'm+Mugilan+V;Full+Stack+Developer+%7C+MERN+Stack+%7C+Problem+Solver"
+    alt="Typing SVG"
+  />
+</div>
+
+
+
+
+<!-- Right side illustration (One Piece – Luffy calm vibe) -->
+<img src="https://www.gifcen.com/wp-content/uploads/2022/11/one-piece-gif-1.gif" width="40%" align="right" />
 
 <br><br>
 
-<pre>
+<div >
 🎓 ECE Undergraduate @ Sri Eshwar College of Engineering
 💼 MERN Stack Intern • Full Stack Developer
 💻 React • Node.js • Express • MongoDB • Next.js
 🧠 DSA & Problem Solving (600+ problems solved)
 📖 Scalable systems • REST APIs • Clean architecture
 🎯 Hackathons • Open Source • Learning by building
-</pre>
+</div>
 
 <br>
 
 <!-- Vinland Saga – Thorfinn minimal divider -->
-<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" height="40" />
-
 <br><br>
 
 <!-- Social & Coding Profiles -->
@@ -136,27 +141,14 @@ I enjoy solving challenging problems, participating in hackathons, and continuou
 🥈 Runner-up – **INTELLINA’25 Hackathon**  
 🏆 **Hackxeleterators Award** – Hackxelerate 2025  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="165" />
-
-</div>
 
 ---
-
-## 🦊 Just for fun
 
 <div align="center">
   <!-- One Piece – Journey / Adventure ending -->
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="120" />
+  <img src="https://media.tenor.com/3G63nN93C7oAAAAC/vinland-saga-thorfinn.gif" height="120" />
 </div>
 
 ---
 
-⭐ *“Build. Break. Learn. Repeat.”*
+<p align ="center">⭐ “Build. Break. Learn. Repeat.” </p>
