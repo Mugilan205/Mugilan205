@@ -8,31 +8,35 @@
 <!-- Typing title -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=500&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=180&lines=Hello+Hello;I'm+Mugilan+V;Full+Stack+Developer+%7C+MERN+Stack+%7C+Problem+Solver"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=4000&pause=500&color=4CAF50&center=true&vCenter=true&multiline=true&repeat=false&width=1400&height=180&lines=Full+Stack+Developer+%7C+MERN+Stack+%7C+Problem+Solver"
     alt="Typing SVG"
+  />
+</div>
+
+<!-- LEFT CONTENT -->
+<div align="center">
+
+🎓 **ECE Undergraduate** @ Sri Eshwar College of Engineering  
+💻 **React • Node.js • Express • MongoDB • Next.js**  
+🧠 **DSA & Problem Solving** (600+ problems solved)  
+📖 **Scalable systems • REST APIs • Clean architecture**  
+🎯 **Hackathons • Open Source • Learning by building**
+
+</div>
+
+<br><br>
+
+<!-- RIGHT GIF -->
+<div align="center">
+  <img
+    src="https://www.gifcen.com/wp-content/uploads/2022/11/one-piece-gif-1.gif"
+    width="60%"
+    alt="One Piece"
   />
 </div>
 
 
 
-
-<!-- Right side illustration (One Piece – Luffy calm vibe) -->
-<img src="https://www.gifcen.com/wp-content/uploads/2022/11/one-piece-gif-1.gif" width="40%" align="right" />
-
-<br><br>
-
-<div >
-🎓 ECE Undergraduate @ Sri Eshwar College of Engineering
-💼 MERN Stack Intern • Full Stack Developer
-💻 React • Node.js • Express • MongoDB • Next.js
-🧠 DSA & Problem Solving (600+ problems solved)
-📖 Scalable systems • REST APIs • Clean architecture
-🎯 Hackathons • Open Source • Learning by building
-</div>
-
-<br>
-
-<!-- Vinland Saga – Thorfinn minimal divider -->
 <br><br>
 
 <!-- Social & Coding Profiles -->
