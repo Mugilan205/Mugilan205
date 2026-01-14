@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Right side illustration -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25%" align="right" />
+<!-- Right side illustration (One Piece – Luffy calm vibe) -->
+<img src="https://media.giphy.com/media/8Rmz4i5oWjB0Q/giphy.gif" width="25%" align="right" />
 
 <!-- Typing title -->
 <img 
@@ -22,14 +22,15 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<!-- Vinland Saga – Thorfinn minimal divider -->
+<img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" height="40" />
 
 <br><br>
 
 <!-- Social & Coding Profiles -->
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/your-github-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://linkedin.com/in/your-linkedin-username)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Mugilan205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin)](https://www.linkedin.com/in/mugilan-v-921917291/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)]([https://leetcode.com/](https://leetcode.com/u/Mugilan205/))
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef)](https://www.codechef.com/)
 
 </div>
@@ -100,6 +101,7 @@ I enjoy solving challenging problems, participating in hackathons, and continuou
   </tr>
 </table>
 
+---
 
 ## 📌 Featured Projects
 
@@ -151,7 +153,8 @@ I enjoy solving challenging problems, participating in hackathons, and continuou
 ## 🦊 Just for fun
 
 <div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="120" />
+  <!-- One Piece – Journey / Adventure ending -->
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="120" />
 </div>
 
 ---
