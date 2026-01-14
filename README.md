@@ -1,5 +1,8 @@
 <div align="center">
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Mugilan205/Mugilan205/main/header.svg" alt="MUGILAN" />
+</h1>
 
 
 <!-- Typing title -->
